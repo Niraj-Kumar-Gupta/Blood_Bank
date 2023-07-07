@@ -27,10 +27,9 @@ You may also see any lint errors in the console.
 
 ## Contributors:
 
-1.[ Niraj Kumar Gupta](https://github.com/Niraj-Kumar-Gupta/)\
-2.[ Roshni Mandal](https://github.com/Roshni-Mandal/)\
-3.  Ravi Kumar Shah\
-4.  Shaily Rani
+1.[ Roshni Mandal](https://github.com/Roshni-Mandal/)\
+2.[ Niraj Kumar Gupta](https://github.com/Niraj-Kumar-Gupta/)
+
 
 
 ## Project link:
